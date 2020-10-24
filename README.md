@@ -1,0 +1,1 @@
+# Acer-TMP259-G2-MG_Hackintosh-OpenCore
